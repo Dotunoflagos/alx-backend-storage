@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''12.
+'''12 module.
 '''
 from pymongo import MongoClient
 
